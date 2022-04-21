@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 /**
- * Hello world!
+ * Das ist ein ergenzender Kommentar
  *
  */
 public class App 
