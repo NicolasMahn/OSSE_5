@@ -17,7 +17,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.12</version>
+      <version>4.13.2</version>
       <scope>test</scope>
     </dependency>
 
@@ -36,7 +36,7 @@
     </dependency-->
   </dependencies>
 
-  <reporting>
+  <!--<reporting>
     <plugins>
 
       <plugin>
@@ -46,15 +46,15 @@
         <artifactId>maven-surefire-report-plugin</artifactId>
       </plugin>
 
-      <!-- für das Praktikum "Integrationstest"-->
+      <- für das Praktikum "Integrationstest"-->
       <!--plugin>
         <groupId>org.jacoco</groupId>
         <artifactId>jacoco-maven-plugin</artifactId>
         <version>0.8.6</version>
-      </plugin-->
+      </plugin>
 
     </plugins>
-  </reporting>
+  </reporting>-->
 
   <build>
     <plugins>
